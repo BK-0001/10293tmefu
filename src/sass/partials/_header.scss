@@ -1,0 +1,13 @@
+.header {
+  padding: 24px;
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase;
+  background-color: white;
+
+  position: sticky;
+  top: 0;
+
+  border-bottom: 1px solid rgb(234, 234, 234);
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+}

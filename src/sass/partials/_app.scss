@@ -1,0 +1,12 @@
+#app {
+}
+
+main {
+  display: flex;
+  gap: 24px;
+  flex-direction: column-reverse;
+
+  @media screen and (min-width: 930px) {
+    flex-direction: row-reverse;
+  }
+}

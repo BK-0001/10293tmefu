@@ -1,0 +1,35 @@
+.cart-item {
+  display: flex;
+  margin-bottom: 12px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
+  &__img {
+    flex: 1;
+    height: 150px;
+  }
+
+  &__contents {
+    flex: 1;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: space-between;
+  }
+
+  &__details {
+    width: 100%;
+    text-align: right;
+  }
+
+  &__price {
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+
+  &__quantity {
+    border-bottom: 1px solid rgb(193, 193, 193);
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Niki Shoes",
+      "price": 200,
+      "description": "You can run faster with this",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZHVjdHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 1,
+      "title": "Vans Sneaker",
+      "price": 60,
+      "description": "You can skateboard like charm",
+      "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 2,
+      "title": "Suedo Shoes",
+      "price": 300,
+      "description": "You can dance like pro",
+      "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHByb2R1Y3RzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 3,
+      "title": "Corduroy",
+      "price": 150,
+      "description": "You can jump higher",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2hvZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 4,
+      "title": "Amstredam",
+      "price": 130,
+      "description": "Perfect for Moon walking",
+      "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2hvZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 5,
+      "title": "Levitation",
+      "price": 10000,
+      "description": "summon me anywhere",
+      "image": "https://images.unsplash.com/photo-1562183241-b937e95585b6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHNob2VzfGVufDB8fDB8fHww"
+    }
+  ]
+}

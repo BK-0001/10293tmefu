@@ -1,0 +1,25 @@
+{
+  "name": "wad-203-mid-term-fake-store",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "compile:typescript": "tsc",
+    "watch:typescript": "tsc --watch",
+    "compile:css": "sass -w src/sass:src/css",
+    "html": "live-server src --verbose",
+    "server": "json-server -w server/db.json --port=8000",
+    "dev": "concurrently 'npm run server' 'npm run watch:typescript' 'npm run compile:css' 'npm run html'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.5.29",
+    "concurrently": "^8.2.2",
+    "json-server": "^1.0.0-alpha.21",
+    "live-server": "^1.2.2",
+    "sass": "^1.70.0",
+    "typescript": "^5.4.5"
+  }
+}
